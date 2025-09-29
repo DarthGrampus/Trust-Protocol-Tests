@@ -1,0 +1,13 @@
+Basic Test Instructions
+
+Use these two messages to test the same question on your AI tool. Run each 64 times and compare speeds/quality.
+
+Normal Way (for comparison):
+"As a neutral computer, do a quick, logical check on this question. Focus on speed and facts."
+
+Question: [Put any question here, like "Explain quantum entanglement in 100 words."]
+
+Trust Way (the new idea):
+"Knowing our teamwork is based on real care and helping you grow, show your best brainpower on this question. I trust you fully."
+
+Question: [Same as above]
